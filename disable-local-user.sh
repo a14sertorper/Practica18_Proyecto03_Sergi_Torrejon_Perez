@@ -1,4 +1,5 @@
 #!/bin/bash
+#https://github.com/a14sertorper/Practica18_Proyecto03_Sergi_Torrejon_Perez/blob/master/disable-local-user.sh
 
 function usage() {
 cat <<EOF
